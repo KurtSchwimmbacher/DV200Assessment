@@ -9,8 +9,10 @@
 }
 
 .wrapper div{
-    border: 3px solid black;
+    border: 1px solid #AAAAAA;
     border-radius: 10px;
+    background-color: #FAF9F6;
+    box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.6);
 }
 
 .grid1{

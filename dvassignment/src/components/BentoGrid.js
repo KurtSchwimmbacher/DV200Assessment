@@ -115,7 +115,7 @@ function BentoGrid() {
         datasets:[{
             label:"Game Titles Released",
             data: pieChartData.map((data)=>data.released),
-            backgroundColor: ["#51A1C5"],
+            backgroundColor: ["#51A1C596","#C7303296","#AB6DAC96","#2A50A196","#E7623E96"],
         }]
     }
     let PieOpt = {

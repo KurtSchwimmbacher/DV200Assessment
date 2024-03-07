@@ -16,6 +16,7 @@ function Chart() {
         <Row>
             <Col>
             <h1 className='title'>Chart Page</h1>
+            <p className='sub-title'>This page shows our latest Game Statistics for all the nerds who like to know!</p>
             </Col>
         </Row>
         <BentoGrid />
