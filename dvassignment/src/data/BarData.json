@@ -1,0 +1,9 @@
+[
+    {"genre": "FPS", "units_sold": 300},
+    {"genre": "RPG", "units_sold": 200},
+    {"genre": "Action", "units_sold": 400},
+    {"genre": "Adventure", "units_sold": 250},
+    {"genre": "Strategy", "units_sold": 150},
+    {"genre": "Sports", "units_sold": 350},
+    {"genre": "Simulation", "units_sold": 180}
+]
