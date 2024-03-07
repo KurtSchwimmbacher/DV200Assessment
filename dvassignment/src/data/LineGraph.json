@@ -1,0 +1,14 @@
+[
+    {"label": "Jan", "sales": 300},
+    {"label": "Feb", "sales": 320},
+    {"label": "Mar", "sales": 280},
+    {"label": "Apr", "sales": 350},
+    {"label": "May", "sales": 400},
+    {"label": "Jun", "sales": 380},
+    {"label": "Jul", "sales": 420},
+    {"label": "Aug", "sales": 390},
+    {"label": "Sep", "sales": 370},
+    {"label": "Oct", "sales": 410},
+    {"label": "Nov", "sales": 430},
+    {"label": "Dec", "sales": 380}
+]

@@ -1,7 +1,7 @@
 import { Doughnut } from 'react-chartjs-2';
 
 
-function Bargraph({ chartData,chartOpt }) {
+function DoughnutChart({ chartData,chartOpt }) {
   return (
     <>
         <div className='graph-con'>
@@ -14,4 +14,4 @@ function Bargraph({ chartData,chartOpt }) {
   );
 }
 
-export default Bargraph;
+export default DoughnutChart;

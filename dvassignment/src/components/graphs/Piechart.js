@@ -1,11 +1,11 @@
-import { PolarArea } from 'react-chartjs-2';
+import { Pie } from 'react-chartjs-2';
 
 
-function PolarChart({ chartData,chartOpt }) {
+function PieChart({ chartData,chartOpt }) {
   return (
     <>
         <div className='graph-con'>
-            <PolarArea
+            <Pie
             data={chartData}
             options={chartOpt}
             />
@@ -14,4 +14,4 @@ function PolarChart({ chartData,chartOpt }) {
   );
 }
 
-export default PolarChart;
+export default PieChart;

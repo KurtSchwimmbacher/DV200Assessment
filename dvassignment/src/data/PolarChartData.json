@@ -1,0 +1,9 @@
+[
+    {"genre": "FPS", "highest_Sales": 400},
+    {"genre": "RPG", "highest_Sales": 350},
+    {"genre": "Action", "highest_Sales": 420},
+    {"genre": "Adventure", "highest_Sales": 380},
+    {"genre": "Strategy", "highest_Sales": 320},
+    {"genre": "Sports", "highest_Sales": 390},
+    {"genre": "Simulation", "highest_Sales": 360}
+]

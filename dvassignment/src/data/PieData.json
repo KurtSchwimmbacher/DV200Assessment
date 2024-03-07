@@ -1,0 +1,9 @@
+[
+    {"genre": "FPS", "released": 2},
+    {"genre": "RPG", "released": 3},
+    {"genre": "Action", "released": 4},
+    {"genre": "Adventure", "released": 2},
+    {"genre": "Strategy", "released": 1},
+    {"genre": "Sports", "released": 3},
+    {"genre": "Simulation", "released": 2}
+]
