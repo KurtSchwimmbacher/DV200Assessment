@@ -1,0 +1,9 @@
+[
+    {"genre": "FPS", "inStock": 24},
+    {"genre": "RPG", "inStock": 18},
+    {"genre": "Action", "inStock": 30},
+    {"genre": "Adventure", "inStock": 20},
+    {"genre": "Strategy", "inStock": 15},
+    {"genre": "Sports", "inStock": 28},
+    {"genre": "Simulation", "inStock": 22}
+]
